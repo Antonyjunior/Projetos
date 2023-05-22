@@ -11,4 +11,4 @@ mysql-connector==2.2.9
 mysql-connector-python==8.0.18
 PyMySQL==0.9.3
 PyMysqlDB==0.0.2
-requests==2.22.0
+requests==2.31.0
